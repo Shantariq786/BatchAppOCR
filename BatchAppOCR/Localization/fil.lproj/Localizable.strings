@@ -1,0 +1,64 @@
+// choose image
+"Choose Images" = "Pumili ng Mga Larawan";
+"Tap to edit manually" = "I-tap para manu-manong i-edit";
+"Show Document" = "Ipakita ang mga dokumento";
+"Extract Text" = "I-extract ang Teksto";
+
+
+// extracting text
+"Extracting Text" = "Pagkuha ng Teksto";
+"longPressTheImage" = "Pindutin nang matagal ang imahe upang buksan sa buong view";
+"Paste Below" = "Idikit sa ibaba";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKSTO";
+"Export As" = "I-export Bilang";
+"Text To Export" = "Teksto na I-export";
+"pasteMultipleImagesAndExport" = "Idikit ang Teksto mula sa Maramihang Mga Larawan at I-export ito bilang isang dokumento";
+
+
+// go back alert
+"Do you want to go back?" = "Gusto mo bang bumalik?";
+"extractingImageStop" ="Hihinto ang proseso ng pagkuha ng text mula sa larawan.";
+"Yes" = "Oo";
+"No" = "Hindi";
+
+
+// editing mode
+"Crop" = "I-crop";
+"Share" = "Ibahagi";
+"Rotate" = "Iikot";
+"Enhance" = "Enchance";
+
+
+// enhance image
+"ORIGIOAL" = "ORIHIYNAL";
+"BLACK & WHITE" = "BLACK & WHITE";
+"MAGIC" = "MAGIC";
+"GRAYSCALE" = "Gray na sukat";
+"ROTATE" = "Iikot";
+"DONE" = "Tapos na";
+
+///upgrade to Pro Version
+"Upgrade App" = "I-upgrade ang App";
+"Restore" = "Ibalik";
+"Pro version of Application" = "Pro bersyon ng Application";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Walang Mga Ad";
+"Upto 10 Images" = "Hanggang 10 Mga Larawan";
+"Extract text all selected images" = "I-extract ang text ng lahat ng napiling larawan";
+"Purchase PRO Version" = "Purchase PRO Version";
+"Monthly" = "Buwanang";
+"Yearly" = "Taon-taon";
+//show Document
+"Converted Files" = "Mga Na-convert na File";
+"Remove All" = "Alisin lahat";
+//side Menu
+"Purchase Pro Version" = "Bumili ng Pro na Bersyon";
+"Rate Us" = "I-rate Kami";
+"Share App" = "Ibahagi ang App";
+"Privacy Policy" = "Patakaran sa Privacy";
+"Do you want to clear selected image list?" = "Gusto mo bang i-clear ang napiling listahan ng larawan??";
+"Listcleared" = "Ang listahan ay iki-clear..";
+"Yes" = "Oo";
+"No" = "Hindi";

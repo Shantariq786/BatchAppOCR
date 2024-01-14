@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SplashViewController" customModule="BatchAppOCR" customModuleProvider="target">
+            <connections>
+                <outlet property="backGroundAnimation" destination="8Z5-SS-dZq" id="hST-HV-wcM"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Z5-SS-dZq" customClass="AnimationView" customModule="Lottie">
+                    <rect key="frame" x="-200" y="-200" width="814" height="1296"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="animationName" value="splash_doc_anim"/>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rv9-Vb-mdG">
+                    <rect key="frame" x="20" y="412" width="374" height="72"/>
+                    <string key="text">Batch OCR
+Image To Text Converter</string>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="30"/>
+                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="8Z5-SS-dZq" secondAttribute="trailing" constant="-200" id="3DT-oH-fcb"/>
+                <constraint firstItem="Rv9-Vb-mdG" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="7p7-1h-cks"/>
+                <constraint firstItem="8Z5-SS-dZq" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="-200" id="ErV-4i-eRy"/>
+                <constraint firstAttribute="bottom" secondItem="8Z5-SS-dZq" secondAttribute="bottom" constant="-200" id="K9P-mU-EYJ"/>
+                <constraint firstItem="8Z5-SS-dZq" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="-200" id="LIp-XS-md2"/>
+                <constraint firstAttribute="trailing" secondItem="Rv9-Vb-mdG" secondAttribute="trailing" constant="20" id="QSd-0R-4bw"/>
+                <constraint firstItem="Rv9-Vb-mdG" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="Toc-ZC-k42"/>
+                <constraint firstItem="Rv9-Vb-mdG" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="cdx-gg-Dct"/>
+            </constraints>
+            <point key="canvasLocation" x="-197.10144927536234" y="72.991071428571431"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,67 @@
+// choose image
+
+"Choose Images" = "Görüntüleri Seç";
+"Tap to edit manually" = "Manuel olarak düzenlemek için dokunun";
+"Show Document" = "Belgeyi Göster";
+"Extract Text" = "Metin Çıkart";
+
+
+// extracting text
+"Extracting Text" = "Metin Çıkarma";
+"longPressTheImage" = "Tam görünümde açmak için resme uzun basın";
+"Paste Below" = "Aşağıya Yapıştır";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "METİN";
+"Export As" = "Farklı Dışa Aktar";
+"Text To Export" = "Dışa Aktarılacak Metin";
+"pasteMultipleImagesAndExport" = "Birden Çok Görüntüden Metin Yapıştırın ve tek bir belge olarak dışa aktarın";
+
+
+// go back alert
+"Do you want to go back?" = "Geri dönmek istiyor musunuz?";
+"extractingImageStop" = "Görüntüden metin çıkarma işlemi duracaktır.";
+"Yes" = "Evet";
+"No" = "Hayır";
+
+
+// editing mode
+"Crop" = "Kırp";
+"Share" = "Paylaş";
+"Rotate" = "Döndür";
+"Enhance" = "enşans";
+
+
+// enhance image
+"ORIGINAL" = "ORİJINAL";
+"BLACK & WHITE" = "SİYAH & BEYAZ";
+"MAGIC" = "büyü";
+"GRAYSCALE" = "GRİ ÖLÇEK";
+"ROTATE" = "DÖNDÜR";
+"DONE" = "TAMAMLAMAK";
+
+
+//upgrade to Pro Version
+"Upgrade App" = "Uygulamayı Yükselt";
+"Restore" = "Geri Yükle";
+"Pro version of Application" = "Uygulamanın Pro sürümü";
+"Pro Facilities" = "Pro Tesisler";
+"No Ads" = "Reklam Yok";
+"Upto 10 Images" = "10 Görüntüye Kadar";
+"Extract text all selected images" = "Seçilen tüm resimlerin metnini çıkar";
+"Purchase PRO Version" = "PRO Sürümünü Satın Al";
+"Monthly" = "Aylık";
+"Yearly" = "Yıllık";
+//show Document
+"Converted Files" = "Dönüştürülmüş Dosyalar";
+"Remove All" = "Tümünü Uygulamayı Paylaş";
+//Kaldır";
+//side Menu
+"Purchase Pro Version" = "Pro Sürümünü Satın Al";
+"Rate Us" = "Bize Puan Ver";
+"Share App" = "Uygulamayı Paylaş";
+"Privacy Policy" = "Gizlilik Politikası";
+ "Do you want to clear selected image list?" = "Seçilen resim listesini temizlemek istiyor musunuz?";
+"Listcleared" = "Liste silinecek.";
+"Yes" = "Evet";
+"No" = "Hayır";

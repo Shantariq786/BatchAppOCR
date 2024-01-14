@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EditingModeViewController" customModule="BatchAppOCR" customModuleProvider="target">
+            <connections>
+                <outlet property="imageView" destination="E2n-Xe-Y8O" id="5G4-fy-b1S"/>
+                <outlet property="view" destination="HnH-ir-43V" id="Svi-iz-hus"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="HnH-ir-43V">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="j1s-ZF-lIY">
+                    <rect key="frame" x="20" y="64" width="374" height="44"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="JE5-od-SD8">
+                            <rect key="frame" x="0.0" y="0.0" width="182" height="44"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oM5-4a-p2y">
+                                    <rect key="frame" x="0.0" y="0.0" width="24" height="24"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="24" id="1pk-7L-wWu"/>
+                                        <constraint firstAttribute="height" constant="24" id="vjY-CO-0d2"/>
+                                    </constraints>
+                                    <color key="tintColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" image="crop_image"/>
+                                    <connections>
+                                        <action selector="cropViewController" destination="-1" eventType="touchUpInside" id="CAb-qr-nvA"/>
+                                    </connections>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Crop" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4wL-KH-eil">
+                                    <rect key="frame" x="0.0" y="24" width="25.5" height="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                    <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Crop"/>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="Crop"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="bottom" translatesAutoresizingMaskIntoConstraints="NO" id="a2b-KL-pqY">
+                            <rect key="frame" x="192" y="0.0" width="182" height="44"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZmO-Li-MKZ">
+                                    <rect key="frame" x="158" y="0.0" width="24" height="24"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="24" id="VPs-aj-NUm"/>
+                                        <constraint firstAttribute="width" constant="24" id="Xsf-6u-Dk8"/>
+                                    </constraints>
+                                    <color key="tintColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" image="ic_share"/>
+                                    <connections>
+                                        <action selector="exportImage:" destination="-1" eventType="touchUpInside" id="dzP-qD-EJx"/>
+                                        <action selector="shareImage:" destination="-1" eventType="touchUpInside" id="QwF-dM-KDT"/>
+                                    </connections>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Share" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h3V-2F-RDH">
+                                    <rect key="frame" x="151.5" y="24" width="30.5" height="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                    <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Share"/>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="Share"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="jg0-mR-fvY"/>
+                    </constraints>
+                </stackView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="cCt-hk-hag">
+                    <rect key="frame" x="0.0" y="118" width="414" height="680"/>
+                </imageView>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="Edq-3M-MJn">
+                    <rect key="frame" x="20" y="808" width="374" height="44"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="gA2-0X-jXd">
+                            <rect key="frame" x="0.0" y="0.0" width="177" height="44"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vxX-vc-mf2">
+                                    <rect key="frame" x="0.0" y="0.0" width="24" height="24"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="24" id="MWx-hw-2dt"/>
+                                        <constraint firstAttribute="height" constant="24" id="io3-VE-PJn"/>
+                                    </constraints>
+                                    <color key="tintColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" image="rotateImage"/>
+                                    <connections>
+                                        <action selector="rotate" destination="-1" eventType="touchUpInside" id="IrH-J6-oOG"/>
+                                    </connections>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Rotate" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sfF-r6-PpK">
+                                    <rect key="frame" x="0.0" y="24" width="34.5" height="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                    <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Rotate"/>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="Rotate"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="bottom" translatesAutoresizingMaskIntoConstraints="NO" id="DEW-tY-yH4">
+                            <rect key="frame" x="197" y="0.0" width="177" height="44"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s7A-CL-QAB">
+                                    <rect key="frame" x="153" y="0.0" width="24" height="24"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="24" id="JuN-fo-Orw"/>
+                                        <constraint firstAttribute="width" constant="24" id="rEE-jk-jqo"/>
+                                    </constraints>
+                                    <color key="tintColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" image="brush_manual"/>
+                                    <connections>
+                                        <action selector="EnhanceImage:" destination="-1" eventType="touchUpInside" id="Qbk-Fq-qpc"/>
+                                    </connections>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enhance" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IHS-gj-ghl">
+                                    <rect key="frame" x="132" y="24" width="45" height="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                    <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Manual"/>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="Enhance"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="7b7-kr-Nqi"/>
+                    </constraints>
+                </stackView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="grace_hopper" translatesAutoresizingMaskIntoConstraints="NO" id="E2n-Xe-Y8O">
+                    <rect key="frame" x="0.0" y="118" width="414" height="680"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qmW-3h-Wk3" customClass="RoundButton" customModule="BatchAppOCR" customModuleProvider="target">
+                    <rect key="frame" x="20" y="742" width="36" height="36"/>
+                    <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" image="chevron_left"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="18"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="goBackCustom" destination="-1" eventType="touchUpInside" id="XZi-5E-DJj"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="FRF-nC-gAi"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="cCt-hk-hag" firstAttribute="trailing" secondItem="FRF-nC-gAi" secondAttribute="trailing" id="0Z4-4m-cHN"/>
+                <constraint firstItem="cCt-hk-hag" firstAttribute="top" secondItem="j1s-ZF-lIY" secondAttribute="bottom" constant="10" id="2yz-aF-49J"/>
+                <constraint firstItem="qmW-3h-Wk3" firstAttribute="leading" secondItem="FRF-nC-gAi" secondAttribute="leading" constant="20" id="Aui-gh-lxm"/>
+                <constraint firstItem="cCt-hk-hag" firstAttribute="leading" secondItem="FRF-nC-gAi" secondAttribute="leading" id="Bik-9g-N1S"/>
+                <constraint firstItem="E2n-Xe-Y8O" firstAttribute="top" secondItem="j1s-ZF-lIY" secondAttribute="bottom" constant="10" id="Qiv-cR-RTx"/>
+                <constraint firstItem="Edq-3M-MJn" firstAttribute="top" secondItem="E2n-Xe-Y8O" secondAttribute="bottom" constant="10" id="SEe-Q5-4vJ"/>
+                <constraint firstItem="FRF-nC-gAi" firstAttribute="trailing" secondItem="j1s-ZF-lIY" secondAttribute="trailing" constant="20" id="TQ8-8G-Cbr"/>
+                <constraint firstItem="Edq-3M-MJn" firstAttribute="top" secondItem="qmW-3h-Wk3" secondAttribute="bottom" constant="30" id="VVK-Is-QgX"/>
+                <constraint firstItem="FRF-nC-gAi" firstAttribute="trailing" secondItem="Edq-3M-MJn" secondAttribute="trailing" constant="20" id="Yqf-AB-063"/>
+                <constraint firstItem="E2n-Xe-Y8O" firstAttribute="trailing" secondItem="FRF-nC-gAi" secondAttribute="trailing" id="bfQ-Ds-3xv"/>
+                <constraint firstItem="FRF-nC-gAi" firstAttribute="bottom" secondItem="Edq-3M-MJn" secondAttribute="bottom" constant="10" id="iVi-sW-aah"/>
+                <constraint firstItem="Edq-3M-MJn" firstAttribute="leading" secondItem="FRF-nC-gAi" secondAttribute="leading" constant="20" id="j5X-lx-GKD"/>
+                <constraint firstItem="Edq-3M-MJn" firstAttribute="top" secondItem="cCt-hk-hag" secondAttribute="bottom" constant="10" id="kDQ-oj-jcs"/>
+                <constraint firstItem="E2n-Xe-Y8O" firstAttribute="leading" secondItem="FRF-nC-gAi" secondAttribute="leading" id="scH-Lo-pId"/>
+                <constraint firstItem="j1s-ZF-lIY" firstAttribute="top" secondItem="FRF-nC-gAi" secondAttribute="top" constant="20" id="t53-Dg-mXz"/>
+                <constraint firstItem="j1s-ZF-lIY" firstAttribute="leading" secondItem="FRF-nC-gAi" secondAttribute="leading" constant="20" id="vpE-Ly-gc1"/>
+            </constraints>
+            <point key="canvasLocation" x="-214.49275362318843" y="71.651785714285708"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="qmW-3h-Wk3">
+            <size key="intrinsicContentSize" width="36" height="36"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="background" width="2084" height="1191"/>
+        <image name="brush_manual" width="36" height="36"/>
+        <image name="chevron_left" width="36" height="36"/>
+        <image name="crop_image" width="36" height="36"/>
+        <image name="grace_hopper" width="517" height="606"/>
+        <image name="ic_share" width="36" height="36"/>
+        <image name="rotateImage" width="36" height="36"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

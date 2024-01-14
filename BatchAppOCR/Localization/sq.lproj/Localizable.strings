@@ -1,0 +1,89 @@
+// choose image
+"Choose Images" = "Zgjidh imazhet";
+
+"Tap to edit manually" = "Trokit për të modifikuar manualisht";
+
+"Show Document" = "Trego dokumentin";
+
+"Extract Text" = "Ekstrakt tekst";
+
+// extracting text
+"Extracting Text" = "Nxjerrja e tekstit";
+
+"longPressTheImage" = "Shtypni gjatë imazhin për ta hapur në pamje të plotë";
+
+"Paste Below" = "Paste Below";
+
+"PDF" = "PDF";
+
+"DOCX" ="DOCX";
+
+"TEXT" = "TEKST";
+
+"Export As" = "Export As";
+
+"Text To Export" = "Text To Export";
+
+"pasteMultipleImagesAndExport" ="Ngjit tekstin nga shumë imazhe dhe eksportoje si një dokument të vetëm";
+
+
+// go back alert
+"Do you want to go back?" = "A doni të ktheheni?";
+
+"extractingImageStop" = "Procesi i nxjerrjes së tekstit nga imazhi do të ndalojë.";
+
+"Yes" = "Po";
+
+"No" = "Jo";
+
+
+// editing mode
+"Crop" = "Crop";
+
+"Share" = "Share";
+
+"Rotate" = "Rrotullo";
+
+"Enhance" = "Përmirëso";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+
+"BLACK & WHITE" =  "BLACK & WHITE";
+
+"MAGIC" = "MAGJIKE";
+
+"GRAYSCALE" = "GRAYSCALE";
+
+"ROTATE" = "ROTATE";
+
+"DONE" = "DONE";
+
+
+
+"Upgrade App" = "Apgrade App";
+"Restore" = "Rivendos";
+"Pro version of Application" = "Versioni Pro i Aplikacionit";
+
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Pa reklama";
+"Upto 10 Images" = "Deri në 10 imazhe";
+"Extract text all selected images" = "Ekstraktoni tekstin e të gjitha imazheve të zgjedhura";
+
+"Purchase PRO Version" = "Blerje PRO Version";
+"Monthly" = "Mujore";
+"Yearly" = "Vjetor";
+//show Document
+"Converted Files" = "Skedarët e Konvertuar";
+"Remove All" = "Hiq të gjitha";
+
+//side Menu
+"Purchase Pro Version" = "Blini Versionin Pro";
+"Rate Us" = "Na vlerëso";
+"Share App" = "Ndani aplikacionin";
+"Privacy Policy" = "Politika e privatësisë";
+"Do you want to clear selected image list?" = "A doni të pastroni listën e imazheve të zgjedhura??";
+"Listcleared" = "Lista do të pastrohet.";
+"Yes" = "Po";
+"No" = "Jo";

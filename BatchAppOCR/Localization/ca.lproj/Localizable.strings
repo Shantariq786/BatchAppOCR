@@ -1,0 +1,65 @@
+// choose image
+"Choose Images" = "Tria imatges";
+"Tap to edit manually" = "Toqueu per editar manualment";
+"Show Document" = "Mostra el document";
+"Extract Text" = "Extreu text";
+
+
+// extracting text
+"Extracting Text" = "Extracció de text";
+"longPressTheImage" = "Premeu llargament la imatge per obrir-la a la vista completa";
+"Paste Below" = "Enganxa a continuació";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Exporta com a";
+"Text To Export" = "Text per exportar";
+"pasteMultipleImagesAndExport" = "Enganxeu text de diverses imatges i exporteu-lo com a document únic";
+
+
+// go back alert
+"Do you want to go back?" = "Vols tornar?";
+"extractingImageStop" = "El procés d'extracció de text de la imatge s'aturarà.";
+"Yes" = "Sí";
+"No" = "No";
+
+
+// editing mode
+"Crop" = "Retalla";
+"Share" = "Comparteix";
+"Rotate" = "Gira";
+"Enhance" = "Potenciar";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "BLANC I NEGRE";
+"MAGIC" = "MÀGIA";
+"GRAYSCALE" = "ESCALA DE GRIS";
+"ROTATE" = "GIRAR";
+"DONE" = "FET";
+
+
+///upgrade to Pro Version
+"Upgrade App" = "Apgrade App";
+"Restore" = "Rivendos";
+"Pro version of Application" = "Versioni Pro i Aplikacionit";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Pa reklama";
+"Upto 10 Images" = "Fins a 10 imatges";
+"Extract text all selected images" = "Extreu el text de totes les imatges seleccionades";
+"Purchase PRO Version" = "Compra la versió PRO";
+"Monthly" = "Mujore";
+"Yearly" = "Vjetor";
+//show Document
+"Converted Files" = "Fitxers convertits";
+"Remove All" = "Esborra-ho tot";
+//side Menu
+"Purchase Pro Version" = "Compra la versió pro";
+"Rate Us" = "Puntua'ns";
+"Share App" = "Comparteix l'aplicació";
+"Privacy Policy" = "Política privada";
+"Do you want to clear selected image list?" = "Voleu esborrar la llista d'imatges seleccionades?";
+"Listcleared" = "La llista s'esborrarà.";
+"Yes" = "Sí";
+"No" = "No";

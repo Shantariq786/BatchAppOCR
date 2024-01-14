@@ -1,0 +1,63 @@
+// choose image
+
+"Choose Images" = "Scegli immagini";
+"Tap to edit manually" = "Tocca per modificare manualmente";
+"Show Document" = "Mostra documento";
+"Extract Text" = "Estrai testo";
+
+
+// extracting text
+"Extracting Text" = "Estrazione testo";
+"longPressTheImage" = "Premere a lungo l'immagine per aprirla a piena vista";
+"Paste Below" = "Incolla sotto";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TESTO";
+"Export As" = "Esporta come";
+"Text To Export" = "Testo da esportare";
+"pasteMultipleImagesAndExport" = "Incolla il testo da più immagini ed esportalo come un unico documento";
+
+
+// go back alert
+"Do you want to go back?" = "Vuoi tornare indietro?";
+"extractingImageStop" = ".Il processo di estrazione del testo dall'immagine verrà interrotto.";
+"Yes" = "Sì";
+"No" = "No";
+
+
+// editing mode
+"Crop" = "Ritaglia";
+"Share" = "Condividi";
+"Rotate" = "RUOTARE";
+"Enhance" = "Incanta";
+
+// enhance image
+"ORIGINAL" = "ORIGINALE";
+"BLACK & WHITE" = "NERO E BIANCO";
+"MAGIC" = "MAGICA";
+"GRAYSCALE" = "SCALA DI GRIGIE";
+"ROTATE" = "RUOTARE";
+"DONE" = "FATTO";
+
+//upgrade to Pro Version
+"Upgrade App" = "Aggiorna app";
+"Restore" = "Ripristina";
+"Pro version of Application" = "Versione Pro dell'applicazione";
+"Pro Facilities" = "Strutture Pro";
+"No Ads" = "Nessuna pubblicità";
+"Upto 10 Images" = "Fino a 10 immagini";
+"Extract text all selected images" = "Estrai il testo di tutte le immagini selezionate";
+"Purchase PRO Version" = "Acquista versione PRO";
+"Monthly" = "Mensile";
+"Yearly" = "Anno";
+//show Document
+"Converted Files" = "File convertiti";
+"Remove All" = "Rimuovi tutto";
+//side Menu
+"Purchase Pro Version" = "Acquista versione Pro" ;
+"Rate Us" = "Valutaci";
+"Share App" = "Condividi app";
+"Do you want to clear selected image list?" = "Vuoi cancellare l'elenco delle immagini selezionate?";
+"Listcleared" = "L'elenco verrà cancellato.";
+"Yes" = "Sì";
+"No" = "No";

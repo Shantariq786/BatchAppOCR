@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "43r-Z6-SRo"; */
+"43r-Z6-SRo.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "nr7-qr-Unv"; */
+"nr7-qr-Unv.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "The process of extracting text from image will stop"; ObjectID = "vgu-tU-twn"; */
+"vgu-tU-twn.text" = "The process of extracting text from image will stop";
+
+/* Class = "UILabel"; text = "Do you really want to go back?"; ObjectID = "zmy-M4-vNp"; */
+"zmy-M4-vNp.text" = "Do you really want to go back?";

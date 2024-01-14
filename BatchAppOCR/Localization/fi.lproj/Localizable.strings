@@ -1,0 +1,61 @@
+// choose image
+"Choose Images" = "Dooro Sawirada";
+"Tap to edit manually" = "Taabo si aad gacanta wax ugu daabacdo";
+
+"Show Document" = "Muuji Dukumentiga";
+"Extract Text" = "Pura teksti";
+
+// extracting text
+"Extracting Text" = "Soosaarida Qoraalka";
+
+"longPressTheImage" = "Riix dheer sawirka si aad u furto muuqaal buuxa";
+
+"Paste Below" = "Hoos ku dheji";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Dhoofinta Sida";
+"Text To Export" = "Qoraalka Lagu Dhoofinayo";
+"pasteMultipleImagesAndExport" = "Ku dheji qoraalka sawiro badan oo ka rar dukumeenti keliya";
+// go back alert
+"Do you want to go back?" = "Ma rabtaa inaad dib u laabato?";
+"extractingImageStop" = "Habka ka soo saarida qoraalka sawirka wuu joogsan doonaa.";
+"Yes" = "Haa";
+"No" = "Maya";
+// editing mode
+"Crop" = "Dalag";
+"Share" = "La wadaag";
+"Rotate" = "wareejin";
+"Enhance" = "Horumarinta";
+// enhance image
+"ORIGINAL" = "ASASIGA AH";
+"BLACK & WHITE" = "madow iyo caddaan";
+"MAGIC" = "SIxir";
+"GRAYSCALE" = "miisaan cawl";
+"ROTATE" = "Isku rog";
+"DONE" = "sameeyey";
+
+
+//upgrade to Pro Version
+"Upgrade App" = "Päivitä sovellus";
+"Restore" = "Palauta";
+"Pro version of Application" = "Pro-versio sovelluksesta";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Ei mainoksia";
+"Upto 10 Images" = "Jopa 10 kuvaa";
+"Extract text all selected images" = "Pura teksti kaikista valituista kuvista";
+"Purchase PRO Version" = "Osta PRO-versio";
+"Monthly" = "Kuukausittain";
+"Yearly" = "Vuosittain";
+//show Document
+"Converted Files" = "Konvertoidut tiedostot";
+"Remove All" = "Poista kaikki";
+//side Menu
+"Purchase Pro Version" = "Osta Pro-versio";
+"Rate Us" = "Arvioi meidät";
+"Share App" = "Jaa sovellus";
+"Privacy Policy" = "Tietosuojakäytäntö";
+"Do you want to clear selected image list?" = "Haluatko tyhjentää valittujen kuvien luettelon???";
+"Listcleared" = "Lista tyhjennetään.";
+"Yes" = "Kyllä";
+"No" = "Ei";

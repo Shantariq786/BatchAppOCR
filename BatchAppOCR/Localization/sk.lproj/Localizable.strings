@@ -1,0 +1,65 @@
+// choose image
+"Choose Images" = "Vybrať obrázky";
+"Tap to edit manually" = "Klepnutím upravíte manuálne";
+"Show Document" = "Zobraziť dokument";
+"Extract Text" = "Extrahovať text";
+
+
+// extracting text
+"Extracting Text" = "Extrahovanie textu";
+"longPressTheImage" = "Dlhým stlačením obrázok otvoríte v úplnom zobrazení";
+"Paste Below" = "Prilepiť pod";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Exportovať ako";
+"Text To Export" = "Text na export";
+"pasteMultipleImagesAndExport" = "Prilepiť text z viacerých obrázkov a exportovať ho ako jeden dokument";
+
+
+// go back alert
+"Do you want to go back?" = "Chceš sa vrátiť?";
+"extractingImageStop" = "Proces extrahovania textu z obrázku sa zastaví.";
+"Yes" = "Áno";
+"No" = "Nie";
+
+
+// editing mode
+"Crop" = "Orezať";
+"Share" = "Zdieľať";
+"Rotate" = "Točiť sa";
+"Enhance" = "Vylepšiť";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINÁL";
+"BLACK & WHITE" = "ČIERNA BIELA";
+"MAGIC" = "MAGIE";
+"GRAYSCALE" = "ŠEDÁ STUPEŇ";
+"ROTATE" = "TOČIŤ SA";
+"DONE" = "HOTOVÝ";
+
+///upgrade to Pro Version
+"Upgrade App" = "Aktualizujte aplikáciu";
+"Restore" = "Obnoviť";
+"Pro version of Application" = "Pro verzia aplikácie";
+"Pro Facilities" = "Pro zariadenia";
+"No Ads" = "Žiadne reklamy";
+"Upto 10 Images" = "Až 10 obrázkov";
+"Extract text all selected images" = "Extrahovať text zo všetkých vybratých obrázkov";;
+"Purchase PRO Version" = "Zakúpiť verziu PRO";
+"Monthly" = "Mesačné";
+"Yearly" = "Ročne";
+//show Document
+"Converted Files" = "Converted Files";
+"Remove All" = "Odstrániť všetko";
+//side Menu
+"Purchase Pro Version" = "Zakúpiť Pro verziu";
+"Rate Us" = "Ohodnoťte nás";
+"Share App" = "Zdieľať aplikáciu";
+"Privacy Policy" = "Zásady ochrany osobných údajov";";
+Do you want to clear selected image list?" = "Chcete vymazať vybratý zoznam obrázkov?";
+"Listcleared" = "Zoznam bude vymazaný.";
+"Yes" = "Áno";
+"No" = "Nie";
+

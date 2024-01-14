@@ -1,0 +1,65 @@
+// choose image
+
+"Choose Images" = "Välj bilder";
+"Tap to edit manually" = "Knacka för att redigera manuellt";
+"Show Document" = "Visa dokument";
+"Extract Text" = "Extrahera text";
+
+
+// extracting text
+"Extracting Text" = "Extraherar text";
+"longPressTheImage" = "Tryck länge på bilden för att öppnas i helvy";
+"Paste Below" = "Klistra in nedan";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Exportera som";
+"Text To Export" = "Text att exportera";
+"pasteMultipleImagesAndExport" = "Klistra in text från flera bilder och exportera den som ett enda dokument";
+
+
+// go back alert
+"Do you want to go back?" = "Vill du gå tillbaka";
+"extractingImageStop" = "Processen att extrahera text från bilden kommer att stoppas.";
+"Yes" = "Ja";
+"No" = "Nej";
+
+
+// editing mode
+"Crop" = "Beskär";
+"Share" = "Dela";
+"Rotate" = "Rotera";
+"Enhance" = "Förbättra";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "SVART & VIT";
+"MAGIC" = "MAGI";
+"GRAYSCALE" = "GRÅSKALA";
+"ROTATE" = "ROTERA";
+"DONE" = "KLAR";
+
+//upgrade to Pro Version
+"Upgrade App" = "Uppgradera App";
+"Restore" = "Återställ";
+"Pro version of Application" = "Pro-versionen av applikationen";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Inga annonser";
+"Upto 10 Images" = "Upp till 10 bilder";
+"Extract text all selected images" = "Upp till 10 bilder";
+"Purchase PRO Version" = "Köp PRO-versionen";
+"Monthly" = "En gång i månaden";
+"Yearly" = "Årligt";
+//show Document
+"Converted Files" = "Konverterade filer";
+"Remove All" = "Ta bort alla";
+//side Menu
+"Purchase Pro Version" = "Buy Pro Version ";
+"Rate Us" = "Betygsätt oss";
+"Share App" = "Dela app";
+"Privacy Policy" = "Sekretesspolicy";
+"Do you want to clear selected image list?" = "Vill du rensa den valda bildlistan?";
+"Listcleared" = "Listan kommer att rensas.";
+"Yes" = "Ja";
+"No" = "Nej";

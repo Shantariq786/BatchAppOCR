@@ -1,0 +1,64 @@
+// choose image
+"Choose Images" = "Wybierz obrazy";
+"Tap to edit manually" = "Dotknij, aby edytować ręcznie";
+"Show Document" = "Pokaż dokument";
+"Extract text" = "Wyodrębnij tekst";
+
+
+// extracting text
+"Extracting Text" = "Wyodrębnianie tekstu";
+"longPressTheImage" = "Naciśnij i przytrzymaj obraz, aby otworzyć w pełnym widoku";
+"Paste Below" = "Wklej poniżej";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKST";
+"Export As" = "Eksportuj jako";
+"Text To Export" = "Tekst do wyeksportowania";
+"pasteMultipleImagesAndExport" = "Wklej tekst z wielu obrazów i wyeksportuj go jako pojedynczy dokument";
+
+
+// go back alert
+"Do you want to go back?" = "Czy chcesz wrócić?";
+"extractingImageStop" = "Proces wyodrębniania tekstu z obrazu zostanie zatrzymany.";
+"Yes" = "Tak";
+"No" = "Nie";
+
+
+// editing mode
+"Crop" = "Przytnij";
+"Share" = "Udostępnij";
+"Rotate" = "Obróć";
+"Enhance" = "Ulepsz";
+
+
+// enhance image
+"ORIGINAL" = "ORYGINALNY";
+"BLACK & WHITE" = "CZARNO-BIAŁY";
+"MAGIC" = "MAGIA";
+"GRAYSCALE" = "SKALA Szarości";
+"ROTATE" = "OBRÓĆ";
+"DONE" = "GOTOWE";
+
+//upgrade to Pro Version
+"Upgrade App" = "Uaktualnij aplikację";
+"Restore" = "Przywróć";
+"Pro version of Application" = "Wersja Pro aplikacji";
+"Pro Facilities" = "Usługi Pro";
+"No Ads" = "Brak reklam";
+"Upto 10 Images" = "Do 10 obrazów";
+"Extract text all selected images" = "Wyodrębnij tekst wszystkich zaznaczonych obrazów";
+"Purchase PRO Version" = "Kup wersję PRO";
+"Monthly" = "Miesięcznie";
+"Yearly" = "Rocznie";
+//show Document
+"Converted Files" = "Pliki przekonwertowane";
+"Remove All" = "Usuń wszystko";
+//side Menu
+"Purchase Pro Version" = "Kup wersję Pro";
+"Rate Us" = "Oceń nas";
+"Share App" = "Udostępnij aplikację";
+"Privacy Policy" = "Polityka prywatności";
+"Do you want to clear selected image list?" = "Czy chcesz wyczyścić zaznaczoną listę obrazków???";
+"Listcleared" = "Lista zostanie wyczyszczona.";
+"Yes" = "Tak";
+"No" = "Nie";

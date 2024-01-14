@@ -1,0 +1,62 @@
+
+// choose image
+"Choose Images" = "Pilih Gambar";
+"Tap to edit manually" = "mengedit secara manual";
+"Show Document" = "Tampilkan Dokumen";
+"Extract Text" = "Ekstrak Teks";
+
+// extracting text
+"Extracting Text" = "Mengekstrak Teks";
+"longPressTheImage" = "Tekan lama gambar untuk membuka dalam tampilan penuh";
+"Paste Below" = "Tempel Di Bawah";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKS";
+"Export As" = "Ekspor Sebagai";
+"Text To Export" = "Teks Untuk Diekspor";
+"pasteMultipleImagesAndExport" = "Tempel Teks dari Beberapa Gambar dan Ekspor sebagai satu dokumen";
+
+// go back alert
+"Do you want to go back?" = "Apakah kamu ingin kembali?";
+"extractingImageStop" = "Proses ekstraksi teks dari gambar akan berhenti.";
+"Yes" = "Ya";
+"No" = "Tidak";
+
+// editing mode
+"Crop" = "Pangkas";
+"Share" = "Bagikan";
+"Rotate" = "MEMUTAR";
+"Enhance" = "tingkatkan gambar";
+
+
+// enhance image
+"ORIGINAL" = "ASLI";
+"BLACK & WHITE" = "HITAM & PUTIH";
+"MAGIC" = "SIHIR";
+"GRAYSCALE" = "SKALA ABU-ABU";
+"ROTATE" = "MEMUTAR";
+"DONE" = "SELESAI";
+
+
+"Upgrade App" = "Tingkatkan Aplikasi";
+"Restore" = "Memulihkan";
+"Pro version of Application" = "Aplikasi versi Pro";
+"Pro Facilities" = "Fasilitas Pro";
+"No Ads" = "Tanpa Iklan";
+"Upto 10 Images" = "Hingga 10 Gambar";
+"Extract text all selected images" = "Ekstrak teks dari semua gambar yang dipilih";
+"Purchase PRO Version" = "Beli Versi PRO";
+"Monthly" = "Bulanan";
+"Yearly" = "Tahunan";
+//show Document
+"Converted Files" = "File yang Dikonvers";
+"Remove All" = "Hapus Semua";
+//side Menu
+"Purchase Pro Version" = "Beli Versi Pro";
+"Rate Us" = "Beri Nilai Kami";
+"Share App" = "Bagikan Aplikasi";
+"Privacy Policy" = "Kebijakan Privasi";
+"Do you want to clear selected image list?" = "Apakah Anda ingin menghapus daftar gambar yang dipilih??";
+"Listcleared" = "Daftar akan dihapus.";
+"Yes" = "Ya";
+"No" = "Tidak";

@@ -1,0 +1,65 @@
+// choose image
+"Choose Images" = "Chọn Hình ảnh";
+"Tap to edit manually" = "Nhấn để chỉnh sửa thủ công";
+"Show Document" = "Hiển thị Tài liệu";
+"Extract Text" = "Trích xuất văn bản";
+
+
+// extracting text
+"Extracting Text" = "Trích xuất Văn bản";
+"longPressTheImage" = "Nhấn và giữ hình ảnh để mở ở chế độ xem đầy đủ";
+"Paste Below" = "Dán bên dưới";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "CHỮ";
+"Export As" = "Xuất dưới dạng";
+"Text To Export" = "Văn bản Để Xuất";
+"pasteMultipleImagesAndExport" =  "Dán văn bản từ nhiều hình ảnh và xuất nó thành một tài liệu duy nhất";
+
+
+// go back alert
+"Do you want to go back?" = "Bạn có muốn quay lại không?";
+"extractingImageStop" = "Quá trình trích xuất văn bản từ hình ảnh sẽ dừng lạ.";
+"Yes" = "Có";
+"No" = "Không";
+
+
+// editing mode
+"Crop" = "TRỒNG TRỌT";
+"Share" = "Chia sẻ";
+"Rotate" = "Quay";
+"Enhance" = "Mê hoặc";
+
+
+// enhance image
+"ORIGINAL" = "nguyên bản";
+"BLACK & WHITE" = "ĐEN & TRẮNG";
+"MAGIC" = "ma thuật";
+"GRAYSCALE" = "QUY MÔ XÁM";
+"ROTATE" = "QUAY";
+"DONE" = "LÀM XONG";
+
+
+//upgrade to Pro Version
+"Upgrade App" = "Nâng cấp Ứng dụng";
+"Restore" = "Khôi phục";
+"Pro version of Application" = "Phiên bản ứng dụng chuyên nghiệp";
+"Pro Facilities" = "Cơ sở vật chất chuyên nghiệp";
+"No Ads" = "Không có Quảng cáo";
+"Upto 10 Images" = "Tối đa 10 Hình ảnh";
+"Extract text all selected images" = "Trích xuất văn bản của tất cả các hình ảnh đã chọn";
+"Purchase PRO Version" = "Mua Phiên bản PRO";
+"Monthly" = "Hàng tháng";
+"Yearly" = "Hàng năm";
+//show DocumenS
+"Converted Files" = "Tệp được chuyển đổi";
+"Remove All" = "Xóa tất cả";
+//side Menu
+"Purchase Pro Version" = "Mua Phiên bản Pro";
+"Rate Us" = "Xếp hạng chúng tôi";
+"Share App" = "Chia sẻ Ứng dụng";
+"Privacy Policy" = "Chính sách Bảo mật";
+"Do you want to clear selected image list?" = "Bạn có muốn xóa danh sách hình ảnh đã chọn không ??";
+"Listcleared" = "Danh sách sẽ bị xóa.";
+"Yes" = "Có";
+"No" = "Không";

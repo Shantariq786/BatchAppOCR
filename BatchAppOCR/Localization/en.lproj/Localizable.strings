@@ -1,0 +1,73 @@
+
+
+// choose image
+"Choose Images" = "Choose Images";
+"Tap to edit manually" = "Tap on image to edit manually";
+"Show Document" = "Show Document";
+"Auto Remove" = "Auto Remove";
+
+// extracting text
+"Extracting Text" = "Extracting Text";
+"longPressTheImage" = "Long press the image to open in full view";
+"Paste Below" = "Paste Below";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Export As";
+"Text To Export" = "Text To Export";
+"pasteMultipleImagesAndExport" = "Paste Text from Multiple Images and Export it as a single document";
+
+
+// go back alert
+"Do you want to go back?" = "Do you want to go back?";
+"extractingImageStop" = "The process of extracting text from image will stop.";
+"Yes" = "Yes";
+"No" = "No";
+
+// editing mode
+"Crop" = "Crop";
+"Share" =  "Share";
+"Rotate" = "Rotate";
+"Enhance" = "Enhance";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "BLACK & WHITE";
+"MAGIC" = "MAGIC";
+"GRAYSCALE" = "GRAYSCALE";
+"ROTATE" = "ROTATE";
+"DONE" = "DONE";
+
+
+
+
+//MARK:         REMAINING
+
+//clear images alert
+"Do you want to clear selected image list?" = "Do you want to clear selected image list??";
+"Listcleared" = "List will be cleared.";
+"Yes" = "Yes";
+"No" = "No";
+
+//upgrade to Pro Version
+"Upgrade App" = "Upgrade App";
+"Restore" = "Restore";
+"Pro version of Application" = "Pro version of Application";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "No Ads";
+"Upto 10 Images" = "Upto 10 Images";
+"Extract text all selected images" = "Extract text of all the selected images";
+"Purchase PRO Version" = "Subscribe";
+"Monthly" = "Monthly";
+"Yearly" = "Yearly";
+
+//show Document
+"Converted Files" = "Converted Files";
+"Remove All" = "Remove All";
+
+//side Menu
+"Purchase Pro Version" = "Purchase Pro Version";
+"Rate Us" = "Rate Us";
+"Share App" = "Share App";
+"Privacy Policy" = "Privacy Policy";

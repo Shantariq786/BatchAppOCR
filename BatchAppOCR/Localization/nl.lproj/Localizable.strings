@@ -1,0 +1,65 @@
+// choose image
+
+"Choose Images" = "Kies afbeeldingen";
+"Tap to edit manually" = "Tik om handmatig te bewerken";
+"Show Document" = "Toon document";
+"Extract Text" = "Tekst extraheren";
+
+
+// extracting text
+"Extracting Text" = "Tekst extraheren";
+"longPressTheImage" = "Druk lang op de afbeelding om deze in volledige weergave te openen";
+"Paste Below" = "Plak hieronder";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKST";
+"Export As" = "Exporteren als";
+"Text To Export" = "Tekst om te exporteren";
+"pasteMultipleImagesAndExport" = "Plak tekst van meerdere afbeeldingen en exporteer deze als één document";
+
+
+// go back alert
+"Do you want to go back?" = "Wilt u teruggaan?";
+"extractingImageStop" = "Het proces van het extraheren van tekst uit een afbeelding zal stoppen.";
+"Yes" = "Ja";
+"No" = "Nee";
+
+
+// editing mode
+"Crop" = "Bijsnijden";
+"Share" = "Deel";
+"Rotate" = "Draaien";
+"Enhance" = "Betovering";
+
+
+// enhance image
+"ORIGINAL" = "ORIGIONAAL";
+"BLACK & WHITE" = "ZWART-WIT";
+"MAGIC" = "MAGISCH";
+"GRAYSCALE" = "GRIJSCHAAL";
+"ROTATE" = "ROTEREN";
+"DONE" = "KLAAR";
+
+///upgrade to Pro Version
+"Upgrade App" = "Upgrade-app";
+"Restore" = "Herstellen";
+"Pro version of Application" = "Pro-versie van toepassing";
+"Pro Facilities" = "Pro-faciliteiten";
+"No Ads" = "Geen advertenties";
+"Upto 10 Images" = "Tot 10 afbeeldingen";;
+"Extract text all selected images" = "Tekst van alle geselecteerde afbeeldingen extraheren";
+"Purchase PRO Version" = "Koop PRO-versie";
+"Monthly" = "Maandelijks";
+"Yearly" = "Jaarlijks";
+//show Document
+"Converted Files" = "Geconverteerde bestanden";
+"Remove All" = "Alles verwijderen";
+//side Menu
+"Purchase Pro Version" = "Koop Pro-versie";
+"Rate Us" = "Beoordeel ons";
+"Share App" = "App delen";
+"Privacy Policy" = "Privacybeleid";
+"Do you want to clear selected image list?" = "Wilt u de lijst met geselecteerde afbeeldingen wissen?";
+"Listcleared" = "Lijst wordt gewist";
+"Yes" = "Ja";
+"No" = "Nee";

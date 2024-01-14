@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "- No Ads.\n\n- Upto 10 Images\n\n- Extract text of all the selected images"; ObjectID = "APS-N9-imI"; */
+"APS-N9-imI.text" = "- No Ads.\n\n- Upto 10 Images\n\n- Extract text of all the selected images";
+
+/* Class = "UIButton"; normalTitle = "Purchase PRO VERSION"; ObjectID = "Acg-zg-4cq"; */
+"Acg-zg-4cq.normalTitle" = "Purchase PRO VERSION";
+
+/* Class = "UILabel"; text = "Pro version of application."; ObjectID = "Ffo-fA-JWf"; */
+"Ffo-fA-JWf.text" = "Pro version of application.";
+
+/* Class = "UIButton"; normalTitle = "Year"; ObjectID = "N01-P3-NS5"; */
+"N01-P3-NS5.normalTitle" = "Year";
+
+/* Class = "UILabel"; text = "Pro Facilities"; ObjectID = "QHm-IJ-VD9"; */
+"QHm-IJ-VD9.text" = "Pro Facilities";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bSF-4C-bRg"; */
+"bSF-4C-bRg.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "bsc-OK-dUj"; */
+"bsc-OK-dUj.normalTitle" = "Monthly";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "fr1-kX-igZ"; */
+"fr1-kX-igZ.normalTitle" = "Restore";
+
+/* Class = "UILabel"; text = "Temporary Text"; ObjectID = "tGP-RL-ZlK"; */
+"tGP-RL-ZlK.text" = "Temporary Text";
+
+/* Class = "UILabel"; text = "Upgrade App"; ObjectID = "yQZ-mC-eBq"; */
+"yQZ-mC-eBq.text" = "Upgrade App";

@@ -1,0 +1,63 @@
+// choose image
+"Choose Images" = "Izvēlēties attēlus";
+"Tap to edit manually" = "Pieskarieties, lai rediģētu manuāli";
+"Show Document" = "Rādīt dokumentu";
+"Extract Text" = "Izvilkt tekstu";
+
+
+// extracting text
+"Extracting Text" = "Teksta izvilkšana";
+"longPressTheImage" = "Lai atvērtu pilnā skatā, nospiediet un nospiediet attēlu";
+"Paste Below" = "Ielīmēt zemāk";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKSTS";
+"Export As" = "Eksportēt kā";
+"Text To Export" = "Eksportējamais teksts";
+"pasteMultipleImagesAndExport" = "Ielīmējiet tekstu no vairākiem attēliem un eksportējiet to kā vienu dokumentu";
+
+// go back alert
+"Do you want to go back?" = "Vai vēlaties atgriezties?";
+"extractingImageStop" = "Teksta izvilkšanas process no attēla tiks pārtraukts.";
+"Yes" = "Jā";
+"No" = "Nē";
+
+
+// editing mode
+"Crop" = "Apgriezt";
+"Share" = "Kopīgot";
+"Rotate" = "Pagriezt";
+"Enhance" = "Uzlabot";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINĀLS";
+"BLACK & WHITE" = "MELNS BALTS";
+"MAGIC" = "Maģija";
+"GRAYSCALE" = "Pelēkā skala";
+"ROTATE" = "Pagriezt";
+"DONE" = "Gatavs";
+
+//upgrade to Pro Version
+"Upgrade App" = "Jaunināt lietotni";
+"Restore" = "Atjaunot";
+"Pro version of Application" = "Programmas lietojumprogrammas versija";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Nav reklāmu";
+"Upto 10 Images" = "Līdz 10 attēliem";
+"Extract text all selected images" = "Izvilkt tekstu no visiem atlasītajiem attēliem";
+"Purchase PRO Version" = "Pirkt PRO versiju";
+"Monthly" = "Ikmēneša";
+"Yearly" = "Katru gadu";
+//show Document
+"Converted Files" = "Konvertēti faili";
+"Remove All" = "Noņemt visu";
+//side Menu
+"Purchase Pro Version" = "Pirkt Pro versiju";
+"Rate Us" = "Novērtē mūs";
+"Share App" = "Koplietot lietotni";
+"Privacy Policy" = "Privātuma politika";
+"Do you want to clear selected image list?" = "Vai vēlaties notīrīt atlasīto attēlu sarakstu??";
+"Listcleared" = "Saraksts tiks notīrīts.";
+"Yes" = "Jā";
+"No" = "Nē";

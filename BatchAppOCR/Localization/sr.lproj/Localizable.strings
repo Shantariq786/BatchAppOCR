@@ -1,0 +1,62 @@
+// choose image
+"Choose Images" = "Alege imagini";
+"Tap to edit manually" = "Тап то едит мануалли";
+"Show Document" = "Прикажи документ";
+"Extract Text" = "Екстракт текста";
+
+
+// extracting text
+"Extracting Text" = "Ектрацтинг Тект";
+"longPressTheImage" = "Дуго притисните слику да бисте је отворили у пуном приказу";
+"Paste Below" = "Налепи испод";
+"PDF" = "ПДФ";
+"DOCX" = "ДОЦКС";
+"TEXT" = "ТЕКСТ";
+"Export As" = "Извези као";
+"Text To Export" = "Тект То Екпорт";
+"pasteMultipleImagesAndExport" = "Налепи текст из више слика и извези га као један документ";
+
+
+// go back alert
+"Do you want to go back?" = "Желите ли да се вратите?";
+"extractingImageStop" = "Процес издвајања текста из слике ће се зауставити.";
+"Yes" = "Да";
+"No" = "Не";
+
+
+// editing mode
+"Crop" = "Исецање";
+"Share" = "Дели";
+"Rotate" = "Ротате";
+"Enhance" = "Енханце";
+// enhance image
+"ORIGINAL" = "ОРИГИНАЛНО";
+"BLACK & WHITE" = "БЛАЦК & ВХИТЕ";
+"MAGIC" = "МАГИЦ";
+"GRAYSCALE" = "ГРАИСЦАЛЕ";
+"ROTATE" = "РОТАТЕ";
+"DONE" = "ГОТОВО";
+
+///upgrade to Pro Version
+"Upgrade App" = "Надогради апликацију";
+"Restore" = "Ресторе";
+"Pro version of Application" = "Про верзија апликације";
+"Pro Facilities" = "Про Фацилитиес";
+"No Ads" = "Нема огласа";
+"Upto 10 Images" = "Упто 10 Имагес";
+"Extract text all selected images" = "Ектрацт тект оф алл тхе селецтед имагес";
+"Purchase PRO Version" = "Купите ПРО верзију";
+"Monthly" = "Месечно";
+"Yearly" = "Годишње";
+//show Document
+"Converted Files" = "Цонвертед Филес";
+"Remove All" = "Ремове Алл";
+//side Menu
+"Purchase Pro Version" = "Купите Про верзију";
+"Rate Us" = "Оцени нас";
+"Share App" = "Дели апликацију";
+"Privacy Policy" = "Политика приватности";
+"Do you want to clear selected image list?" = "Желите ли да обришете изабрану листу слика??";
+"Listcleared" = "Листа ће бити обрисана.";
+"Yes" = "Да";
+"No" = "Не";

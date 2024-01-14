@@ -1,0 +1,64 @@
+// choose image
+"Choose Images" = "Veldu myndir";
+"Tap to edit manually" = "Pikkaðu til að breyta handvirkt";
+
+"Show Document" = "Sýna skjal";
+"Extract Text" = "Extract Text";
+
+// extracting text
+"Extracting Text" = "útdráttur texta";
+"longPressTheImage" = "Ýttu lengi á myndina til að opna hana í fullri mynd";
+"Paste Below" = "Líma fyrir neðan";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXTI";
+"Export As" = "Flytja út sem";
+"Text To Export" = "Texti sem á að flytja út";
+"pasteMultipleImagesAndExport" = "Líma texta úr mörgum myndum og flytja hann út sem eitt skjal";
+
+// go back alert
+
+"Do you want to go back?" = "Viltu fara aftur?";
+"extractingImageStop" = "Ferlið við að draga texta úr mynd stöðvast.";
+"Yes" = "Já";
+"No" = "Nei";
+
+
+// editing mode
+"Crop" = "Skera";
+"Share" = "Deila";
+"Rotate" = "Snúa";
+"Enhance" = "Bæta";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "SVART & HVÍT";
+"MAGIC" = "GALDRAR";
+"GRAYSCALE" = "GRÁSTÓL";
+"ROTATE" = "SNOÐA";
+"DONE" = "LOKIÐ";
+
+//upgrade to Pro Version
+"Upgrade App" = "Atnaujinti programą";
+"Restore" = "Atkurti";
+"Pro version of Application" = "Pro programos versija";
+"Pro Facilities" = "Pro Facilities";
+"No Ads" = "Nėra skelbimų";
+"Upto 10 Images" = "Iki 10 vaizdų";
+"Extract text all selected images" = "Išskleisti visų pasirinktų vaizdų tekstą";
+"Purchase PRO Version" = "Pirkti PRO versiją";
+"Monthly" = "Mėnesinis";
+"Yearly" = "Kasmet";
+//show Document
+"Converted Files" = "Konvertuoti failai";
+"Remove All" = "Pašalinti viską";
+//side Menu
+"Purchase Pro Version" = "Pirchase Pro versija";
+"Rate Us" = "Įvertink mus";
+"Share App" = "Bendrinti programą";
+"Privacy Policy" = "Privatumo politika";
+ "Do you want to clear selected image list?" = "Ar norite išvalyti pasirinktų vaizdų sąrašą??";
+"Listcleared" = "Sąrašas bus išvalytas.";
+"Yes" = "Taip";
+"No" = "Ne";

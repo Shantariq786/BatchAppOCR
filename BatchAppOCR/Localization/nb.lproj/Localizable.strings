@@ -1,0 +1,62 @@
+// choose image
+"Choose Images" = "Velg Bilder";
+"Tap to edit manually" = "Trykk for å redigere manuelt";
+"Show Document" = "Vis dokument";
+"Extract Text" = "Trekk ut tekst";
+
+// extracting text
+"Extracting Text" = "Trekker ut tekst";
+"longPressTheImage" = "Trykk lenge på bildet for å åpne i full visning";
+"Paste Below" = "Lim inn under";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKST";
+"Export As" = "Eksporter som";
+"Text To Export" = "Tekst som skal eksporteres";
+"pasteMultipleImagesAndExport" = "Lim inn tekst fra flere bilder og eksporter den som et enkelt dokument";
+
+// go back alert
+"Do you want to go back?" = "Vil du gå tilbake?";
+"extractingImageStop" = "Prosessen med å trekke ut tekst fra bildet vil stoppe.";
+"Yes" = "Ja";
+"No" = "Nei";
+
+
+// editing mode
+"Crop" = "Beskjær";
+"Share" = "Del";
+"Rotate" = "Roter";
+"Enhance" = "Forbedre";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "SORT & WHITE";
+"MAGIC" = "MAGISK";
+"GRAYSCALE" = "GRÅSKALER";
+"ROTATE" = "ROTERE";
+"DONE" = "FERDIG";
+
+//upgrade to Pro Version
+"Upgrade App" = "Oppgrader app";
+"Restore" = "Gjenopprett";
+"Pro version of Application" = "Pro versjon av Application";
+"Pro Facilities" = "Pro fasiliteter";
+"No Ads" = "Ingen annonser";
+"Upto 10 Images" = "Opptil 10 bilder";
+"Extract text all selected images" = "Trekk ut tekst fra alle de valgte bildene";
+"Purchase PRO Version" = "Kjøp PRO-versjon";
+"Monthly" = "Månedlig";
+"Yearly" = "Årlig";
+//show Document
+"Converted Files" = "Konverterte filer";
+"Remove All" = "Fjern alle";
+//side Menu
+"Purchase Pro Version" = "Kjøp Pro-versjon";
+"Rate Us" = "Rangere oss";
+"Share App" = "Del app";
+"Privacy Policy" = "Personvernpolicy";
+"Do you want to clear selected image list?" = "Vil du slette den valgte bildelisten??";
+"Listcleared" = "Listen vil bli slettet..";
+"Yes" = "Ja";
+"No" = "Nei";

@@ -1,0 +1,85 @@
+// choose image
+"Choose Images" = "Odaberi slike";
+
+"Tap to edit manually" = "Dodirnite za ručno uređivanje";
+
+"Show Document" = "Prikaži dokument";
+
+"Extract Text" = "Ekstrakt teksta";
+
+// extracting text
+"Extracting Text" = "Izdvajanje teksta";
+
+"longPressTheImage" = "Dugo pritisnite sliku za otvaranje u punom prikazu";
+
+"Paste Below" = "Zalijepi ispod";
+
+"PDF" = "PDF";
+
+"DOCX" =  "DOCX";
+
+"TEXT" = "TEXT";
+
+"Export As" = "Izvezi kao";
+
+"Text To Export" = "Tekst za izvoz";
+
+"pasteMultipleImagesAndExport" = "Zalijepi tekst iz više slika i izvezi ga kao jedan dokument";
+
+
+// go back alert
+"Do you want to go back?" = "Želiš li se vratiti?";
+
+"extractingImageStop" = "Proces izdvajanja teksta iz slike će se zaustaviti.";
+
+"Yes" = "Da";
+
+"No" = "Ne";
+
+// editing mode
+"Crop" ="Obrezivanje";
+
+"Share" = "Dijeli";
+
+"Rotate" = "Rotirati";
+
+"Enhance" = "Poboljšaj";
+
+// enhance image
+"ORIGINAL" = "ORIGINALNO";
+
+"BLACK & WHITE" = "CRNO & BIJELO";
+
+"MAGIC" = "MAGIJA";
+
+"GRAYSCALE" = "SIVA SKALA";
+
+"ROTATE" = "ROTIRATI";
+
+"DONE" = "GOTOVO";
+
+
+
+//upgrade to Pro Version
+"Upgrade App" = "Nadogradi aplikaciju";
+"Restore" = "Vratiti";
+"Pro version of Application" = "Pro verzija aplikacije";
+"Pro Facilities" = "Pro objekti";
+"No Ads" = "Bez reklama";
+"Upto 10 Images" = "Do 10 slika";
+"Extract text all selected images" = "Izdvoji tekst svih odabranih slika";
+"Purchase PRO Version" = "Kupite PRO verziju";
+"Monthly" = "Mjesečno";
+"Yearly" = "Godišnje";
+//show Document
+"Converted Files" = "Pretvorene datoteke";
+"Remove All" = "Ukloni sve";
+//side Menu
+"Purchase Pro Version" = "Kupite Pro verziju";
+"Rate Us" = "Ocijenite nas";
+"Share App" = "Ocijenite nas";
+"Privacy Policy" = "Politika privatnosti";
+"Do you want to clear selected image list?" = "Želite li izbrisati popis odabranih slika??";
+"Listcleared" = "Popis će biti obrisan.";
+"Yes" = "Da";
+"No" = "Ne";

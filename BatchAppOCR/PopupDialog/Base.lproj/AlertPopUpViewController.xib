@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AlertPopUpViewController" customModule="BatchAppOCR" customModuleProvider="target">
+            <connections>
+                <outlet property="animationView" destination="i1D-Z0-Inu" id="bl4-5y-oQp"/>
+                <outlet property="headerLabel" destination="zmy-M4-vNp" id="Zee-FJ-bIh"/>
+                <outlet property="noButton" destination="43r-Z6-SRo" id="J9m-pU-833"/>
+                <outlet property="subHeaderLabel" destination="vgu-tU-twn" id="lMu-5u-W0Q"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="yesButton" destination="nr7-qr-Unv" id="BLy-O4-eFE"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="309"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="dmk-b4-t4O">
+                    <rect key="frame" x="50" y="253" width="314" height="36"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" semanticContentAttribute="forceRightToLeft" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nr7-qr-Unv" customClass="RoundButton" customModule="BatchAppOCR" customModuleProvider="target">
+                            <rect key="frame" x="0.0" y="0.0" width="147" height="36"/>
+                            <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <inset key="contentEdgeInsets" minX="12" minY="30" maxX="12" maxY="30"/>
+                            <state key="normal" title="Yes"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <real key="value" value="18"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Yes"/>
+                                <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="Yes"/>
+                            </userDefinedRuntimeAttributes>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" semanticContentAttribute="forceRightToLeft" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="43r-Z6-SRo" customClass="RoundButton" customModule="BatchAppOCR" customModuleProvider="target">
+                            <rect key="frame" x="167" y="0.0" width="147" height="36"/>
+                            <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <inset key="contentEdgeInsets" minX="12" minY="30" maxX="12" maxY="30"/>
+                            <state key="normal" title="No"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <real key="value" value="18"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="No"/>
+                                <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="No"/>
+                            </userDefinedRuntimeAttributes>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="36" id="RZw-UA-fv0"/>
+                        <constraint firstItem="43r-Z6-SRo" firstAttribute="width" secondItem="nr7-qr-Unv" secondAttribute="width" id="jlv-Mg-B4X"/>
+                    </constraints>
+                </stackView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="i1D-Z0-Inu" customClass="AnimationView" customModule="Lottie">
+                    <rect key="frame" x="157" y="30" width="100" height="100"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="i1D-Z0-Inu" secondAttribute="height" multiplier="1:1" id="3qo-Nf-DuM"/>
+                        <constraint firstAttribute="width" constant="100" id="It5-yn-fGf"/>
+                        <constraint firstAttribute="height" constant="100" id="wnD-lm-eKa"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="animationName" value="alert_animation"/>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Do you really want to go back?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zmy-M4-vNp">
+                    <rect key="frame" x="20" y="150" width="374" height="20.5"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="Do you want to go back?"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="The process of extracting text from image will stop" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vgu-tU-twn">
+                    <rect key="frame" x="30" y="180.5" width="354" height="41"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="localizeKey" value="extractingImageStop"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="vgu-tU-twn" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="30" id="0ia-pg-FT4"/>
+                <constraint firstItem="zmy-M4-vNp" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="Fqe-kF-zck"/>
+                <constraint firstItem="i1D-Z0-Inu" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="30" id="Qq9-CG-8kt"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="dmk-b4-t4O" secondAttribute="bottom" constant="20" id="RcT-xL-pj6"/>
+                <constraint firstItem="dmk-b4-t4O" firstAttribute="top" relation="greaterThanOrEqual" secondItem="vgu-tU-twn" secondAttribute="bottom" constant="20" id="Z5g-cE-bGf"/>
+                <constraint firstItem="i1D-Z0-Inu" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="aTI-ZD-oE1"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="zmy-M4-vNp" secondAttribute="trailing" constant="20" id="aZi-VD-FU8"/>
+                <constraint firstItem="dmk-b4-t4O" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="50" id="gZi-N1-EUC"/>
+                <constraint firstItem="vgu-tU-twn" firstAttribute="top" secondItem="zmy-M4-vNp" secondAttribute="bottom" constant="10" id="q4r-SF-HdK"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="vgu-tU-twn" secondAttribute="trailing" constant="30" id="uKK-as-vWW"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="dmk-b4-t4O" secondAttribute="trailing" constant="50" id="xvY-qQ-H1c"/>
+                <constraint firstItem="zmy-M4-vNp" firstAttribute="top" secondItem="i1D-Z0-Inu" secondAttribute="bottom" constant="20" id="yxq-YA-Otp"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-10.144927536231885" y="73.995535714285708"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="43r-Z6-SRo">
+            <size key="intrinsicContentSize" width="48" height="82"/>
+        </designable>
+        <designable name="nr7-qr-Unv">
+            <size key="intrinsicContentSize" width="53" height="82"/>
+        </designable>
+    </designables>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

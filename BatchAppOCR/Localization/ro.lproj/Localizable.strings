@@ -1,0 +1,65 @@
+// choose image
+"Choose Images" = "Alege imagini";
+"Tap to edit manually" = "Atingeți pentru a edita manual";
+"Show Document" = "Afișați documentul";
+"Extract text" = "Extrage text";
+
+
+// extracting text
+
+"Extracting Text" = "Extragerea textului";
+"longPressTheImage" = "Apăsați lung imaginea pentru a o deschide în vizualizare completă";
+"Paste Below" = "Lipire Below";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Exportați ca";
+"Text To Export" = "Text pentru export";
+"pasteMultipleImagesAndExport" = "Inserați text din mai multe imagini și exportați-l ca un singur document";
+
+
+// go back alert
+"Do you want to go back?" = "Vrei să te întorci?";
+"extractingImageStop" = "Procesul de extragere a textului din imagine se va opri.";
+"Yes" = "Da";
+"No" = "Nu";
+
+
+// editing mode
+"Crop" = "Decupare";
+"Share" = "Partajare";
+"Rotate" = "Roti";
+"Enhance" = "Îmbunătățire";
+
+
+// enhance image
+"ORIGINAL" = "Original";
+"BLACK & WHITE" = "ALB-NEGRU";
+"MAGIC" = "Magie";
+"GRAYSCALE" = "SCARA TONURILOR DE GRI";
+"ROTATE" = "Roti";
+"DONE" = "Terminat";
+
+///upgrade to Pro Version
+"Upgrade App" = "Actualizați aplicația";
+"Restore" = "Restabili";
+"Pro version of Application" = "Versiunea pro a aplicației";
+"Pro Facilities" = "Facilități profesionale";
+"No Ads" = "Fără reclame";
+"Upto 10 Images" = "Până la 10 imagini";
+"Extract text all selected images" = "Extract text din toate imaginile selectate";
+"Purchase PRO Version" = "Cumpărați versiunea PRO";
+"Monthly" = "Lunar";
+"Yearly" = "Anual";
+//show Document
+"Converted Files" = "Fișiere convertite";
+"Remove All" = "Eliminați tot";
+//side Menu
+"Purchase Pro Version" = "Achiziționați versiunea Pro";
+"Rate Us" = "Evaluează-ne";
+"Share App" = "Partajează aplicația";
+"Privacy Policy" = "Politica de confidențialitate";
+"Do you want to clear selected image list?" = "Doriți să ștergeți lista de imagini selectate?";
+"Listcleared" = "Lista va fi ștearsă.";
+"Yes" = "Da";
+"No" = "Nu";

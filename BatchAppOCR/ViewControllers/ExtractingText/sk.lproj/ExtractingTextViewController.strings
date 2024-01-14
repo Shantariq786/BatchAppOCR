@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Export As"; ObjectID = "2sY-HO-iP9"; */
+"2sY-HO-iP9.text" = "Export As";
+
+/* Class = "UIButton"; normalTitle = "TEXT"; ObjectID = "7BS-ku-Je0"; */
+"7BS-ku-Je0.normalTitle" = "TEXT";
+
+/* Class = "UIButton"; normalTitle = "DOCX"; ObjectID = "E1y-kT-ds5"; */
+"E1y-kT-ds5.normalTitle" = "DOCX";
+
+/* Class = "UIButton"; normalTitle = "PASTE BELOW"; ObjectID = "H2V-7q-aUe"; */
+"H2V-7q-aUe.normalTitle" = "PASTE BELOW";
+
+/* Class = "UILabel"; text = "Text To Export"; ObjectID = "O9U-aT-hea"; */
+"O9U-aT-hea.text" = "Text To Export";
+
+/* Class = "UIButton"; normalTitle = "DOCX"; ObjectID = "QD1-lM-jgy"; */
+"QD1-lM-jgy.normalTitle" = "DOCX";
+
+/* Class = "UIButton"; normalTitle = "PDF"; ObjectID = "WGF-9D-wE8"; */
+"WGF-9D-wE8.normalTitle" = "PDF";
+
+/* Class = "UILabel"; text = "Long press the image to open in full view"; ObjectID = "WX6-rk-ZkH"; */
+"WX6-rk-ZkH.text" = "Long press the image to open in full view";
+
+/* Class = "UIButton"; normalTitle = "PDF"; ObjectID = "hga-yb-3Wj"; */
+"hga-yb-3Wj.normalTitle" = "PDF";
+
+/* Class = "UITextView"; text = "ho there"; ObjectID = "m61-bi-MFO"; */
+"m61-bi-MFO.text" = "ho there";
+
+/* Class = "UILabel"; text = "Extracting Text"; ObjectID = "maI-aB-mrq"; */
+"maI-aB-mrq.text" = "Extracting Text";
+
+/* Class = "UIButton"; normalTitle = "TEXT"; ObjectID = "ngU-CS-hUT"; */
+"ngU-CS-hUT.normalTitle" = "TEXT";

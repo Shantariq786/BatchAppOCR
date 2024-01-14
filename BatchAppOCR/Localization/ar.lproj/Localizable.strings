@@ -1,0 +1,32 @@
+
+
+// choose image
+"Choose Images" = "Choose Images";
+"Tap to edit manually" = "Tap to edit manually";
+"Show Document" = "Show Document";
+"Auto Remove" = "Auto Remove";
+
+// extracting text
+"Extracting Text" = "Extracting Text";
+"longPressTheImage" = "Long press the image to open in full view";
+"Paste Below" = "Paste Below";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXT";
+"Export As" = "Export As";
+"Text To Export" = "Text To Export";
+"pasteMultipleImagesAndExport" = "Paste Text from Multiple Images and Export it as a single document";
+
+
+// go back alert
+"Do you want to go back?" = "Do you want to go back?";
+"extractingImageStop" = "The process of extracting text from image will stop.";
+"Yes" = "Yes";
+"No" = "No";
+
+// editing mode
+"Crop" = "Crop";
+
+
+// ehnace image
+"ORIGIONAL" = "ORIGIONAL";

@@ -1,0 +1,62 @@
+// choose image
+"Choose Images" = "Vali pildid";
+"Tap to edit manually" = "Puudutage käsitsi redigeerimiseks";
+"Show Document" = "Näita dokumenti";
+"Extract Text" = "Ekstrakti tekst";
+
+
+// extracting text
+"Extracting Text" = "Teksti ekstraktimine";
+"longPressTheImage" = "Täisvaates avamiseks vajutage pilti pikalt";
+"Paste Below" = "Kleebi alla";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEKST";
+"Export As" = "Ekspordi kui";
+"Text To Export" = "Eksporditav tekst";
+"pasteMultipleImagesAndExport" = "Kleebi tekst mitmelt pildilt ja eksportige see ühe dokumendina";
+
+// go back alert
+"Do you want to go back?" = "Kas sa tahad tagasi minna";
+"extractingImageStop" = "Pildilt teksti ekstraktimise protsess peatub.";
+"Yes" = "Jah";
+"No" = "Ei";
+
+
+// editing mode
+"Crop" = "Crop";
+"Share" = "Jaga";
+"Rotate" = "Pööra";
+"Enhance" = "Täiustage";
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "MUST & VALGE";
+"MAGIC" = "MAGIC";
+"GRAYSCALE" = "HALLSKAALA";
+"ROTATE" = "ROTATE";
+"DONE" = "VALMIS";
+
+///upgrade to Pro Version
+"Upgrade App" = "Upgrade App";
+"Restore" = "Taasta";
+"Pro version of Application" = "Rakenduse Pro versioon";
+"Pro Facilities" = "Pro rajatised";
+"No Ads" = "Reklaame pole";
+"Upto 10 Images" = "Kuni 10 pilti";
+"Extract text all selected images" = "Kõigi valitud piltide teksti ekstraktimine";
+"Purchase PRO Version" = "Buy the PRO version ";
+"Monthly" = "Igakuine";
+"Yearly" = "Iga-aastane";
+//show Document
+"Converted Files" = "Konverteeritud failid";
+"Remove All" = "Eemalda kõik";
+//side Menu
+"Purchase Pro Version" = "Ostke Pro versioon";
+"Rate Us" = "Hinda meid";
+"Share App" = "Jaga rakendust";
+"Privacy Policy" = "Privaatsuspoliitika";
+"Do you want to clear selected image list?" = "Kas soovite kustutada valitud piltide loendi?";
+"Listcleared" = "Loend kustutatakse..";
+"Yes" = "Jah";
+"No" = "Ei";

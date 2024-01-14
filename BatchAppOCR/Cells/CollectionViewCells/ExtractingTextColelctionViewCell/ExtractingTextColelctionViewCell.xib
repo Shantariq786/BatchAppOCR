@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ExtractingTextColelctionViewCell" customModule="BatchAppOCR" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="150" height="138"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="150" height="138"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="remove_square" translatesAutoresizingMaskIntoConstraints="NO" id="Ra5-K9-IR2" customClass="RoundImageView" customModule="BatchAppOCR" customModuleProvider="target">
+                        <rect key="frame" x="2" y="2" width="146" height="134"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" systemColor="labelColor"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="Ra5-K9-IR2" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="2" id="3bX-yD-xR8"/>
+                <constraint firstAttribute="bottom" secondItem="Ra5-K9-IR2" secondAttribute="bottom" constant="2" id="9pL-6t-6VY"/>
+                <constraint firstItem="Ra5-K9-IR2" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="2" id="Tkg-uA-EtI"/>
+                <constraint firstAttribute="trailing" secondItem="Ra5-K9-IR2" secondAttribute="trailing" constant="2" id="uKN-5L-cp4"/>
+            </constraints>
+            <size key="customSize" width="150" height="138"/>
+            <connections>
+                <outlet property="imageview" destination="Ra5-K9-IR2" id="e7D-2v-OQJ"/>
+            </connections>
+            <point key="canvasLocation" x="210.1449275362319" y="125.89285714285714"/>
+        </collectionViewCell>
+    </objects>
+    <designables>
+        <designable name="Ra5-K9-IR2">
+            <size key="intrinsicContentSize" width="27" height="27"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="remove_square" width="27" height="27"/>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

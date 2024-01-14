@@ -1,0 +1,58 @@
+
+"Choose Images" = "Choisir des images";
+"Tap to edit manually" = "Appuyez pour modifier manuellement";
+"Show Document" =  "Afficher le document";
+"Extract Text" = "Extraire le texte";
+
+"Extracting Text" = "Extraire du texte";
+"longPressTheImage" = "Appuyez longuement sur l'image";
+"Paste Below" = "Coller en dessous";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXTE";
+"Export As" = "Exporter sous";
+"Text To Export" = "Texte à exporter";
+"pasteMultipleImagesAndExport" = "Coller le texte de plusieurs images et l'exporter en un seul document";
+
+"Do you want to go back?" = "Veux-tu repartir ?";
+"extractingImageStop" = "Le processus d'extraction du texte de l'image va s'arrêter.";
+"Yes" = "Oui";
+"No" = "Non";
+
+
+"Crop" = "Rogner";
+"Share" = "Partager";
+"Rotate" = "Pivoter";
+"Enhance" = "Améliorer";
+
+"ORIGINAL" = "ORIGINNEL";
+"BLACK & WHITE" = "NOIR & BLANC";
+"MAGIC" = "MAGIQUE";
+"GRAYSCALE" = "NIVEAUX DE GRIS";
+"ROTATE" = "ROTATION";
+"DONE" = "TERMINÉ";
+
+
+//upgrade to Pro Version
+"Upgrade App" = "Mettre à jour l'application";
+"Restore" = "Restaurer";
+"Pro version of Application" = "Version Pro de l'Application";
+"Pro Facilities" = "Installations Pro";
+"No Ads" = "Pas de publicités";
+"Upto 10 Images" = "Jusqu'à 10 images";
+"Extract text all selected images" = "Extraire le texte de toutes les images sélectionnées";
+"Purchase PRO Version" = "Acheter la version PRO";
+"Monthly" = "Mensuel";
+"Yearly" = "Annuel";
+//show Document
+"Converted Files" = "Fichiers convertis";
+"Remove All" = "Supprimer tout";
+//side Menu
+"Purchase Pro Version" = "Acheter la version Pro";
+"Rate Us" = "Évaluez-nous";
+"Share App" = "Partager l'application";
+"Privacy Policy" = "Politique de confidentialité";
+"Do you want to clear selected image list?" = "Voulez-vous effacer la liste des images sélectionnées ???";
+"Listcleared" = "La liste sera effacée.";
+"Yes" = "Oui";
+"No" = "Non";

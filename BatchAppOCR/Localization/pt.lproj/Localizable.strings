@@ -1,0 +1,70 @@
+// choose image
+
+"Choose Images" = "Escolher Imagens";
+"Tap to edit manually" = "Toque para editar manualmente";
+"Show Document" = "Mostrar Documento";
+"Extract Text" = "Extrair texto";
+
+// extracting text
+"Extracting Text" = "Extrair texto";
+"longPressTheImage" = "Pressione e segure a imagem para abrir em visualização completa";
+"Paste Below" = "Colar Abaixo";
+"PDF" = "PDF";
+"DOCX" = "DOCX";
+"TEXT" = "TEXTO";
+"Export As" = "Exportar como";
+"Text To Export" = "Texto para exportação";
+"pasteMultipleImagesAndExport" = "Colar texto de várias imagens e exportá-lo como um único documento";
+
+
+// go back alert
+"Do you want to go back?" = "Você quer voltar?";
+"extractingImageStop" = "O processo de extração de texto da imagem será interrompido.";
+"Yes" = "Sim";
+"No" = "Não";
+
+
+// editing mode
+"Crop" = "Cortar";
+"Share" = "Compartilhar";
+"Rotate" = "Girar";
+"Enhance" = "Encantar";
+
+
+// enhance image
+"ORIGINAL" = "ORIGINAL";
+"BLACK & WHITE" = "PRETO E BRANCO";
+"MAGIC" = "MAGIA";
+"GRAYSCALE" = "ESCALA DE CINZA";
+"ROTATE" = "ROTAR";
+"DONE" = "completo";
+
+
+//show document
+"Converted Files" = "Arquivos convertidos";
+"Remove All" = "Deletar tudo";
+
+
+//upgrade to Pro Version
+"Upgrade App" = "Atualizar aplicativo";
+"Restore" = "Restaurar";
+"Pro version of Application" = "Versão Pro do Aplicativo";\
+"Pro Facilities" = "Instalações profissionais";
+"No Ads" = "Sem anúncios";
+"Upto 10 Images" = "Até 10 Imagens";
+"Extract text all selected images" = "Extrair texto de todas as imagens selecionadas";
+"Purchase PRO Version" = "Comprar versão PRO";
+"Monthly" = "Mensal";
+"Yearly" = "Anualmente";
+//show Document
+"Converted Files" = "Arquivos convertidos";
+"Remove All" = "Remover tudo";
+//side Menu
+"Purchase Pro Version" = "Comprar versão Pro";
+"Rate Us" = "Avalie-nos";
+"Share App" = "Compartilhar aplicativo";
+"Privacy Policy" = "Política de Privacidade"";
+Do you want to clear selected image list?" = "Deseja limpar a lista de imagens selecionadas?";
+"Listcleared" = "A lista será apagada.";
+"Yes" = "Sim";
+"No" = "Não";
